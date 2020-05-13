@@ -1,4 +1,4 @@
-let inter = 600;
+let inter = 400;
 
 $(document).ready(function() {
     setInterval(function() {
