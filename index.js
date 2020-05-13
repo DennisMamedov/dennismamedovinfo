@@ -4,6 +4,6 @@ const http = require('http').createServer(app);
 
 app.use(express.static('web'))
 
-app.listen(3030, () => {
-    console.log(`Listening on ${3030}`);
+app.listen(4545, () => {
+    console.log(`Listening on 4545`);
 })
